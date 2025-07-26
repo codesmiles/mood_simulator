@@ -69,3 +69,6 @@ migrations/versions/  # If using Alembic
 
 # Logs
 *.log
+
+# alembic specific
+alembic.ini
